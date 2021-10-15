@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = UCASLambdaServerless.Tests
+build_property.ProjectDir = C:\Users\v.harbovskyi\RiderProjects\UCASLambdaProject\UCASLambdaServerless\test\UCASLambdaServerless.Tests\
